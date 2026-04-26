@@ -52,4 +52,4 @@ Detailed logs showing the AI Agent's thought process and tool usage during a liv
 ---
 
 ## 👩‍💻 Developed By
-**Dipti Singh** | *Aspiring Software Engineer* [GitHub](https://github.com/dipti-2211) | [LinkedIn](https://www.linkedin.com/in/dipti-singh-493406281/)
+**Dipti Singh** | *Aspiring Software Engineer* [GitHub](https://github.com/dipti-2211) | [LinkedIn](https://www.linkedin.com/in/dipti-singh-3b0274309/)
