@@ -1,0 +1,32 @@
+# n8n Core Application Assets (The stuff you saw earlier)
+*.js
+*.css
+*.map
+node_modules/
+dist/
+public/
+
+# Environment and Secrets
+.env
+.env.*
+n8n.env
+secrets.json
+*.pem
+*.key
+
+# Database and Data Directories
+.n8n/
+n8n_data/
+*.sqlite
+*.sqlite3
+*.db
+
+# Logs and History
+logs/
+*.log
+execution_logs/
+n8n-logs/
+
+# OS Specific
+.DS_Store
+Thumbs.db
